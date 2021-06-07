@@ -25,9 +25,9 @@ I am a PhD student at École Normale Supérieure under the direction of Anna Ers
   <br>
   **Eduardo Silva**
   <br>
-  arxiv preprint
+  arXiv preprint
   <br>
-  [[PDF](https://arxiv.org/abs/2103.04414)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2103.04414)] <strong><i style="color:#e74d3c">Article</i></strong>
 
 
 <!--
