@@ -4,23 +4,33 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at École Normale Supérieure under the direction of Anna Erschler.
+I am a PhD student at École Normale Supérieure under the direction of Anna Erschler.
 
 ## Research Interests
 
 - **Geometric Group Theory:** Growth of groups
 - **Symbolic Dynamics:** Symbolic dynamics on groups
 
-## News
+<!--## News
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/). 
 --- - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 --- - **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 --- - **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 -->
+-->
 
-<!-- ## Publications
+ ## Articles
+- **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
+  <br>
+  **Eduardo Silva**
+  <br>
+  arxiv preprint
+  <br>
+  [[PDF](https://arxiv.org/abs/2103.04414)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
+
+<!--
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
