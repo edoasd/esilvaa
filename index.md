@@ -19,21 +19,23 @@ I am a PhD student at École Normale Supérieure under the direction of Anna Ers
 --- - **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 -->
 
- ## Articles
- - **Subshifts on solvable non-abelian Baumslag Solitar groups**
+## Articles
+
+ - [[PDF](http://repositorio.uchile.cl/handle/2250/176132)] **Subshifts on solvable non-abelian Baumslag Solitar groups**
   <br>
   **Eduardo Silva**
   <br>
   Master thesis
   <br>
-  [[PDF](http://repositorio.uchile.cl/handle/2250/176132)] <strong><i style="color:#e74d3c">Master thesis at Universidad de Chile</i></strong>
-- **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
+   <strong><i style="color:#e74d3c">Master thesis at Universidad de Chile</i></strong>
+   
+-  [[PDF](https://arxiv.org/abs/2103.04414)] **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
   <br>
   **Eduardo Silva**
   <br>
   arXiv preprint
   <br>
-  [[PDF](https://arxiv.org/abs/2103.04414)] <strong><i style="color:#e74d3c">Article</i></strong>
+  <strong><i style="color:#e74d3c">Article</i></strong>
 
 
 <!--
