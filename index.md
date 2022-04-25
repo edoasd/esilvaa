@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+<meta name="google-site-verification" content="rHzuMrZ9hW1z7XfkD3gBYqXxNobIFik4SMrHhTfJkRE" />
 
 ## About Me
 
