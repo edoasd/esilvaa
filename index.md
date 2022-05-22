@@ -36,6 +36,11 @@ My main interests are symbolic dynamics on groups, and Geometric Group Theory. M
 published on Ergodic Theory and Dynamical Systems
   <br>
   <strong><i style="color:#e74d3c">arxiv version[[PDF](https://arxiv.org/abs/2103.04414)] </i></strong> 
+  
+  
+- Dead ends on wreath products and lamplighter groups
+ <strong><i style="color:#e74d3c"> On progress </i></strong> 
+
 <!--##
 Other: [another page](./other.html)
 -->
