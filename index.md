@@ -30,18 +30,12 @@ My main interests are symbolic dynamics on groups, and Geometric Group Theory. M
    <strong><i style="color:#e74d3c">Master thesis at Universidad de Chile</i></strong>
 -->   
 - [[PDF](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/subshifts-and-colorings-on-ascending-hnnextensions-of-finitely-generated-abelian-groups/9AF26534D86D352BE3161B912365B18E)] **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
-  <br>
-  **Eduardo Silva**
-  <br>
 Published on Ergodic Theory and Dynamical Systems
   <br>
   <strong><i style="color:#e74d3c">arxiv version[[PDF](https://arxiv.org/abs/2103.04414)] </i></strong> 
   
   
 - Dead ends on wreath products and lamplighter groups
-<br>
-  **Eduardo Silva**
-  <br>
  <br>
  <strong><i style="color:#e74d3c"> On progress </i></strong> 
 
