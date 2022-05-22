@@ -7,6 +7,8 @@ layout: homepage
 
 I am a first year PhD student at École Normale Supérieure (Paris) under the direction of Anna Erschler.
 
+I did my undergrad in Mathematical Engineering and a Master in Applied Mathematics in Universidad de Chile (Santiago, Chile). My Master thesis was under the direction of Michael Schraudner. Then I did a Master 2 at Université Sorbonne Paris Nord (Paris, France), and my Master memoire was under the direction of Romain Tessera.
+
 ## Research Interests
 
 My main interests are symbolic dynamics on groups, and Geometric Group Theory. My preferred topics are studying the growth of groups and geometrical properties of Cayley graphs.
