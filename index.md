@@ -37,7 +37,7 @@ Published on Ergodic Theory and Dynamical Systems
   
 - **Dead ends on wreath products and lamplighter groups**
   <br>
-  <strong><i style="color:#e74d3c"> On progress </i></strong> 
+  <i style="color:#e74d3c"> On progress </i>
 
 <!--##
 Other: [another page](./other.html)
