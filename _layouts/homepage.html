@@ -24,20 +24,13 @@
 
     <link rel="stylesheet" href="./assets/css/style.css">
    <meta name="google-site-verification" content="rHzuMrZ9hW1z7XfkD3gBYqXxNobIFik4SMrHhTfJkRE" />
-<style>
-.avatar image {
-  width: 500px;
-  height: 500px;
-  border-radius: 50%;
-}
-</style>
   </head>
   <body>
     <div class="wrapper">
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" width="500" height="500" /></a>
         {% endif %}
         <h1>{{ site.title }}</h1> 
         
