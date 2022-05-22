@@ -5,12 +5,11 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at École Normale Supérieure under the direction of Anna Erschler.
+I am a first year PhD student at École Normale Supérieure (Paris) under the direction of Anna Erschler.
 
 ## Research Interests
 
-- **Geometric Group Theory:** Growth of groups
-- **Symbolic Dynamics:** Symbolic dynamics on groups
+My main interests are symbolic dynamics on groups, and Geometric Group Theory. My preferred topics are studying the growth of groups and geometrical properties of Cayley graphs.
 
 <!--## News
 
@@ -21,7 +20,7 @@ I am a PhD student at École Normale Supérieure under the direction of Anna Ers
 -->
 
 ## Articles
-
+<!--##
  - [[PDF](http://repositorio.uchile.cl/handle/2250/176132)] **Subshifts on solvable non-abelian Baumslag Solitar groups**
   <br>
   **Eduardo Silva**
@@ -29,45 +28,14 @@ I am a PhD student at École Normale Supérieure under the direction of Anna Ers
   Master thesis
   <br>
    <strong><i style="color:#e74d3c">Master thesis at Universidad de Chile</i></strong>
-   
--  [[PDF](https://arxiv.org/abs/2103.04414)] **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
+-->   
+- [[PDF](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/subshifts-and-colorings-on-ascending-hnnextensions-of-finitely-generated-abelian-groups/9AF26534D86D352BE3161B912365B18E)] **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
   <br>
   **Eduardo Silva**
   <br>
-  arXiv preprint
+published on Ergodic Theory and Dynamical Systems
   <br>
-  <strong><i style="color:#e74d3c">Article</i></strong>
-
-
-<!--
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
--->
+  <strong><i style="color:#e74d3c">arxiv version[[PDF](https://arxiv.org/abs/2103.04414)] </i></strong> 
+<!--##
 Other: [another page](./other.html)
+-->
