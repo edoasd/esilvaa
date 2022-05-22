@@ -33,12 +33,16 @@ My main interests are symbolic dynamics on groups, and Geometric Group Theory. M
   <br>
   **Eduardo Silva**
   <br>
-published on Ergodic Theory and Dynamical Systems
+Published on Ergodic Theory and Dynamical Systems
   <br>
   <strong><i style="color:#e74d3c">arxiv version[[PDF](https://arxiv.org/abs/2103.04414)] </i></strong> 
   
   
 - Dead ends on wreath products and lamplighter groups
+<br>
+  **Eduardo Silva**
+  <br>
+ <br>
  <strong><i style="color:#e74d3c"> On progress </i></strong> 
 
 <!--##
