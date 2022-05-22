@@ -34,12 +34,12 @@ My main interests are symbolic dynamics on groups, and Geometric Group Theory. M
 - [[PDF](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/subshifts-and-colorings-on-ascending-hnnextensions-of-finitely-generated-abelian-groups/9AF26534D86D352BE3161B912365B18E)] **Periodicity constraints and graph-coloring subshift on solvable non-abelian Baumslag Solitar groups**
 Published on Ergodic Theory and Dynamical Systems
   <br>
-  <strong><i style="color:#e74d3c">[[arxiv version](https://arxiv.org/abs/2103.04414)] </i></strong> 
+  <strong><i> style="color:#e74d3c">[[arxiv version](https://arxiv.org/abs/2103.04414)] </i></strong> 
   
   
 - **Dead ends on wreath products and lamplighter groups**
   <br>
-  <i style="color:#e74d3c"> On progress </i>
+  <i> style="color:#e74d3c"> On progress </i>
 
 <!--##
 Other: [another page](./other.html)
